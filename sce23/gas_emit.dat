@@ -1,0 +1,22 @@
+# time (s)
+# rate = scaling parameter
+# emissions (mol m^{-2} s^{-1})
+time 0
+rate 0.9 #0.18  
+SO2 1.6e-08 #2.51e-09
+NO2 1.20e-09 # 1.67e-09
+NO 2.5-08 # 3.18e-08
+NH3 6.11e-09
+CO  2.913e-07  #2.913e-07
+ALD2 6.8e-10
+HCHO 1.68e-09
+ETH 7.2e-09
+OLEI 2.42e-09
+OLET 2.42e-09
+TOL 4.04e-09
+XYL 2.41e-09
+AONE 1.23e-09
+PAR 9.6e-08
+ISOP 2.3e-10
+CH3OH 2.8e-10
+ANOL 3.45e-09
